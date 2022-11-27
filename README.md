@@ -1,0 +1,28 @@
+## Project Requirements
+
+- Client side frontend should be a traditional Javascript SPA (Single Page Application)
+    - Any new or removed data should be rendered on the screen without a page refresh
+    - All data should persist upon page load and page refresh
+- Server side backend with be hosted locally using the json-server package
+- You should have at least two models
+- Your models should have at least one has many/belongs to relationship
+- Your project should contain at least 1 Form
+- You must perform all 4 CRUD actions (Create, Read, Update, Delete)
+- Follow proper RESTful conventions, json-server is a REST api and adheres to best practices out of the box
+- Focus on using as much ES6 syntax as possible (arrow functions, object destructuring, spread operators, etc)
+- Your code should be as DRY as possible (Dont Repeat Yourself)
+- Be consistent after choosing your design pattern
+    - That being said, this project will be small enough where I would suggest using Functional programming
+    - If you prefer to practice object-oriented programming, it is okay
+    - It is most important to be consistent with your code after you choose
+- Deliver an MVP project (Minimum Viable Product)
+    - Ugly is good, in fact suggested. Little to no styling is expected
+    - The focus should be on applying core fundamental programming concepts
+    - By building MVP with the above requirements, you will display your proficiency in:
+        - DOM manipulation
+        - Asyncronous JavaScript
+        - Understanding of Proper MVC architecture and RESTful conventions
+        - Modern JS syntax and design patterns
+        - Full-stack development
+        - Client-Server communication
+        - Full CRUD experience# json-server-example
