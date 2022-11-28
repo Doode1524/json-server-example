@@ -1,0 +1,50 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "Joey"
+    },
+    {
+      "id": 2,
+      "name": "Danielle"
+    },
+    {
+      "name": "Kaylee",
+      "id": 3
+    },
+    {
+      "name": "Brandon",
+      "id": 4
+    },
+    {
+      "name": "Dj",
+      "id": 5
+    },
+    {
+      "name": "Dahmer",
+      "id": 6
+    }
+  ],
+  "cats": [
+    {
+      "id": 1,
+      "name": "Penny",
+      "personId": 1
+    },
+    {
+      "id": 2,
+      "name": "Little Kitty",
+      "personId": 2
+    },
+    {
+      "id": 3,
+      "name": "Jazzmine",
+      "personId": 1
+    },
+    {
+      "name": "Jasper",
+      "personId": 3,
+      "id": 5
+    }
+  ]
+}

@@ -25,4 +25,4 @@
         - Modern JS syntax and design patterns
         - Full-stack development
         - Client-Server communication
-        - Full CRUD experience# json-server-example
+        - Full CRUD experience json-server-example
